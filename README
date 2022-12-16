@@ -1,0 +1,7 @@
+This contains python scripts used to create data in D'Orazio et al 2022
+https://ui.adsabs.harvard.edu/abs/2022ApJ...927...56D/abstract
+https://arxiv.org/pdf/2112.01979.pdf
+
+Note that these may not all be set up to make exactly the figures in the paper (though can easily be given the parameters to do so), and some scripts are not for figures in the paper, but for related calcualtions.
+
+email me at djdorazio@gmail.com with questions related to these scripts and the paper
